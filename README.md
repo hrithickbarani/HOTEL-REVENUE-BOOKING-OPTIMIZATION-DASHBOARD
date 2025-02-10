@@ -1,4 +1,4 @@
-# Hotel Booking Analysis Dashboard
+# Luxury Hotel Data Analysis Dashboard
 
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of hotel booking data, focusing on key metrics such as **Revenue**, **ADR (Average Daily Rate)**, **DSRN (Daily Sellable Room Nights)**, **Occupancy**, **Realization**, and **RevPAR (Revenue Per Available Room)**. The dashboard is designed to help hotel managers and stakeholders monitor performance, identify trends, and make data-driven decisions to optimize operations and maximize revenue.
