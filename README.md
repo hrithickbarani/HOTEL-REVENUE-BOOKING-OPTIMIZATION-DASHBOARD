@@ -109,14 +109,17 @@ Interactive slicers are provided for:
 ---
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard_overview.png)  
+![Dashboard Overview](Screenshots/Dashboard_Overview.png)  
 *Description: Main dashboard page showing KPI cards, slicers, and visualizations.*
 
-![Revenue by Room Class](screenshots/revenue_by_room_class.png)  
+![Revenue by Room Class](Screenshots/Revenue_by_Room_Class.png)  
 *Description: Pie chart showing revenue distribution by room class.*
 
-![Realization and ADR by Platform](screenshots/realization_adr_by_platform.png)  
+![Realization and ADR by Platform](Screenshots/Realization_ADR_by_Booking_platform.png)  
 *Description: Line and stacked column chart showing realization percentage and ADR by booking platform.*
+
+![RevPAR and ADR Trend by weeks](Screenshots/RevPAR_ADR_trend.png)  
+*Description: Line chart showing trend of [RevPAR and ADR by weeks.*
 
 ---
 
