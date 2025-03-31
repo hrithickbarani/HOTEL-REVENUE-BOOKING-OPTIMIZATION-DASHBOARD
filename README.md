@@ -1,7 +1,9 @@
-# Luxury Hotel Data Analysis Dashboard
+# Premier Inn Revenue & Booking Optimization Dashboard
 
 ## Overview
-This Power BI dashboard provides a comprehensive analysis of hotel booking data, focusing on key metrics such as **Revenue**, **ADR (Average Daily Rate)**, **DSRN (Daily Sellable Room Nights)**, **Occupancy**, **Realization**, and **RevPAR (Revenue Per Available Room)**. The dashboard is designed to help hotel managers and stakeholders monitor performance, identify trends, and make data-driven decisions to optimize operations and maximize revenue.
+This Power BI dashboard replicates the revenue and booking analysis approach used in my previous work for **Premier Inn**, applying the same data-driven methodology to luxury hotel data. It focuses on optimizing key performance metrics such as **Revenue**, **ADR (Average Daily Rate)**, **DSRN (Daily Sellable Room Nights)**, **Occupancy**, **Realization**, and **RevPAR (Revenue Per Available Room)**.
+
+By leveraging interactive visualizations, DAX calculations, and data modeling, this project demonstrates how real-time insights can enhance pricing strategies, boost occupancy rates, and improve overall revenue management—similar to the optimizations implemented at Premier Inn.
 
 The dataset includes information from five CSV files, covering dimensions like dates, hotels, rooms, and facts about bookings and aggregated bookings. The dashboard visualizes trends, patterns, and insights derived from this data.
 
